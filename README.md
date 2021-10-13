@@ -1,0 +1,1 @@
+This is a recipe website project from The Odin Project's curriculum to demonstrate basic HTML skills, including images, links, headings, and paragraphs. It includes several recipes linked using relative links.
